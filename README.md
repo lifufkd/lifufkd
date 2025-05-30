@@ -30,6 +30,6 @@
 </p>
 
 ### 🤝 Connect with Me  
-[🌐 Portfolio](https://000) · [💼 LinkedIn](https://linkedin.com/in/lifufkd) · [🧑‍💻 GitHub](https://github.com/lifufkd) · 📧 **dmsemen45@gmail.com**
+[🌐 Portfolio](https://000) · [💼 LinkedIn](https://www.linkedin.com/in/semyon-dmitriev) · [🧑‍💻 GitHub](https://github.com/lifufkd) · 📧 **dmsemen45@gmail.com**
 
 Thanks for visiting! ✨ Let's build something awesome together.
