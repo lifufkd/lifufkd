@@ -1,10 +1,4 @@
-<img align="left" src="https://github.com/lifufkd/lifufkd/blob/main/assets/bouncing-cat.gif">
-
-
-<br>
-<br>
-<br>
-<br>
+<img align="left" src="https://github.com/lifufkd/lifufkd/blob/main/assets/cat-oiiaoiia-cat.gif">
 
 ### Hey!
 
@@ -14,9 +8,6 @@
 
 🎉 I work on REST API on python fastapi.
 
-<br>
-<br>
-<br>
 <br>
 
 ### 🌩️ My activity
